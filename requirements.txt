@@ -1,0 +1,8 @@
+transformers
+regex
+esprima
+javalang
+clang
+beautifulsoup4
+langchain
+langchain_huggingface
